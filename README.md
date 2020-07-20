@@ -2,6 +2,8 @@
 Beispiel Quellcode, der in der Präsentation verwendet wurde 
 
 ## Installation
+Die Datei `index.php` und der Ordner `static` müssen beide im gleiche Verzeichnis liegen.
+
 Mithilfe der Datei `users.sql` kann eine Tabelle mit einem Benutzer erstellt werden.
 
 ### Tabelle
